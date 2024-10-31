@@ -1,0 +1,21 @@
+soal,jawaban
+Apa itu Big O notation?,Kompleksitas algoritma
+Apa itu dynamic programming?,Pecahan submasalah
+Apa itu deadlock?,Proses saling tunggu
+Apa perbedaan multithreading dan multiprocessing?,Thread vs proses
+Apa itu race condition?,Akses bersamaan
+Apa itu hash table?,Struktur data key-value
+Apa itu memoization?,Simpan hasil perhitungan
+Apa itu distributed system?,Sistem terdistribusi
+Apa itu CAP theorem?,Konsistensi, ketersediaan
+Apa itu blockchain?,Transaksi aman
+Apa perbedaan symmetric dan asymmetric encryption?,Kunci tunggal vs ganda
+Apa itu virtual memory?,Manajemen memori
+Apa itu neural network?,Model komputasi
+Apa itu overfitting?,Model terlalu sesuai
+Apa itu quantum computing?,Komputasi mekanika kuantum
+Apa itu Docker?,Container aplikasi
+Apa itu microservices?,Layanan kecil
+Apa itu konsistensi eventual?,Konsistensi setelah waktu
+Apa itu consensus algorithm?,Mekanisme kesepakatan
+Apa itu serverless architecture?,Tanpa manajemen server

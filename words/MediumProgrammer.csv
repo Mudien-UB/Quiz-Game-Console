@@ -1,0 +1,21 @@
+soal,jawaban
+Bagaimana mendeklarasikan variabel dalam JavaScript?,Menggunakan var/let/const
+Apa itu OOP?,Pemrograman berorientasi objek
+Apa perbedaan class dan object?,Blueprint vs instance
+Apa itu inheritance?,Pewarisan properti
+Apa itu polymorphism?,Banyak bentuk
+Apa itu encapsulation?,Menyembunyikan data
+Apa itu exception handling?,Menangani error
+Apa itu recursive function?,Fungsi memanggil diri
+Apa perbedaan stack dan queue?,LIFO vs FIFO
+Apa itu framework?,Kerangka kerja
+Apa itu API?,Antarmuka aplikasi
+Apa itu RESTful API?,API berbasis REST
+Apa itu unit testing?,Pengujian unit
+Apa perbedaan SQL dan NoSQL?,Relasional vs non-relasional
+Apa itu garbage collection?,Penghapusan otomatis
+Apa itu closure?,Fungsi akses variabel
+Apa perbedaan asynchronous dan synchronous?,Paralel vs berurutan
+Apa itu namespace?,Organisasi kode
+Sebutkan 3 desain pattern?,Singleton, Factory, Observer
+Apa itu complexity?,Ukuran efisiensi
